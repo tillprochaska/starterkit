@@ -9,4 +9,5 @@
  */
 return [
     'debug' => true,
+    'hooks' => require_once 'hooks.php',
 ];
